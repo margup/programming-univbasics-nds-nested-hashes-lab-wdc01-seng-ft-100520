@@ -14,7 +14,7 @@ end
 
 def literal_aoh
   aoh = Array.new
-  aoh = hash.new
+  aoh = Hash.new
   
   # Using Array literal syntax only, build a nested array that uses the data in
   # held in the constants
