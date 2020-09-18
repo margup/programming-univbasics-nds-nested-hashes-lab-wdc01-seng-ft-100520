@@ -13,7 +13,7 @@ def assembled_aoh
 end
 
 def literal_aoh
-  aoh = [ {} ]
+  aoh = [DON_G, JOELLE_VD, PAT_M, KATE_G, BRUCE_G]
  
   
   # Using Array literal syntax only, build a nested array that uses the data in
